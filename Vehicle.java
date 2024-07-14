@@ -3,7 +3,7 @@ package com.example.beans;
 public class Vehicle {
 
     private String name;
-    private String age;
+    private String totalage;
 
     public String getName() {
         return name;
